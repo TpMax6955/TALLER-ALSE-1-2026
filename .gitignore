@@ -1,0 +1,17 @@
+# Ignorar archivos temporales
+*.log
+*.bak
+*.tmp
+
+# Ignorar directorios de compilación
+/build/
+/bin/
+/obj/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos específicos de compilación en C++
+*.o
+*.exe
