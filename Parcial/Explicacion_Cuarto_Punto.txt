@@ -1,0 +1,11 @@
+Este programa calcula el centroide de un conjunto de puntos en un plano cartesiano. El centroide es el punto de equilibrio o el "promedio" de las coordenadas de todos los puntos dados. El programa sigue estos pasos:
+
+1. Solicita al usuario el número de puntos que desea ingresar.
+
+2. Pide al usuario que ingrese las coordenadas (x, y) de cada punto.
+
+3. Suma todas las coordenadas x y y de los puntos.
+
+4. Calcula el centroide dividiendo la suma de las coordenadas x y y por el número total de puntos.
+
+5. Muestra el centroide calculado en la consola.
